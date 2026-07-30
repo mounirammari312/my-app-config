@@ -1,3 +1,13 @@
+
 {
-  "apiUrl": "https://net27.cc"
+  "apiUrl": "https://net27.cc",
+  "servers": [
+    "https://net27.cc",
+    "https://net52.cc",
+    "https://net50.cc",
+    "https://netfree2.cc",
+    "https://userver.net50.cc"
+  ],
+  "version": "1.0.0",
+  "lastUpdated": "2026-07-30"
 }
